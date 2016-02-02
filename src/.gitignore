@@ -1,0 +1,7 @@
+buildroot
+.buildroot-downloaded
+.buildroot-patched
+*~
+.nerves-defconfig
+/artifacts
+/nerves-system-*

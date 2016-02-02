@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.4.0-dev
+  * New features
+    * Added mix project
+
 ## v0.3.1
 
   * New features

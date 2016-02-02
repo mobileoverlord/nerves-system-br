@@ -1,7 +1,5 @@
-buildroot
-.buildroot-downloaded
-.buildroot-patched
-*~
-.nerves-defconfig
-/artifacts
-/nerves-system-*
+/_build
+/cover
+/deps
+erl_crash.dump
+*.ez
